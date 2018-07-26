@@ -1,0 +1,29 @@
+{
+  "name": "machewm",
+  "version": "1.0.0",
+  "description": "Window manager for MacheDE.",
+  "main": "index.js",
+  "dependencies": {
+    "x11": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseph-caruso/machewm.git"
+  },
+  "keywords": [
+    "machede",
+    "window",
+    "manager",
+    "paperos"
+  ],
+  "author": "Joseph T. Caruso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joseph-caruso/machewm/issues"
+  },
+  "homepage": "https://github.com/joseph-caruso/machewm#readme"
+}
